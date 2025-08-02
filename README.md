@@ -18,7 +18,7 @@ A modern, responsive, and interactive Movie Ticket Booking System built using **
 
 ## 🖼️ Screenshot
 
-![Movie Ticket Booking Screenshot](screenshot.png)
+![Movie Ticket Booking Screenshot](screenshot.jpg)
 
 ---
 
