@@ -8,17 +8,18 @@ A modern, responsive, and interactive Movie Ticket Booking System built using **
 
 ## 🚀 Features
 
-- 🎥 Movie selection with different pricing
+- 🎥 Movie selection with dynamic pricing
 - 🪑 Interactive seat selection with real-time feedback
-- 💰 Instant price calculation based on selected seats
-- 📱 Fully responsive for all screen sizes
-- 🎨 Clean and intuitive UI
+- 💰 Instant price calculation
+- 📱 Fully responsive for all devices
+- 🎨 Clean and modern UI/UX
 
 ---
 
 ## 🖼️ Screenshot
 
-> _Add a screenshot of your website and name it `screenshot.png` to display it here._
+![Movie Ticket Booking Screenshot](screenshot.png)
 
-```bash
-📸 Screenshot Placeholder
+---
+
+## 📂 Folder Structure
